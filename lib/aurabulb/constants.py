@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+
+MIN_LIGHT_LEVEL = 0
+MAX_LIGHT_LEVEL = 210
+
+# Those are from the app .apk
 
 SPP_COMMAND_CHECK = 4
 SPP_CHANGE_MODE   = 5
